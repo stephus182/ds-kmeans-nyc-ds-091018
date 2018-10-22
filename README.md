@@ -664,7 +664,7 @@ temp.fillna(value=0)
 
 
 
-If we already new the desired labels (as in this case), then applying our previous knowledge of classification algorithms would be more appropriate. (We can also see that these clusters have not created any class where 3 is prominent.) However, if we don't know what labels or groupings to apply to the data beforehand, unsupervised clustering methods such as this can help us bin cases into homogeneous groupings.
+If we already new the desired labels (as in this case), then applying our previous knowledge of classification algorithms would be more appropriate. However, if we don't know what labels or groupings to apply to the data beforehand, unsupervised clustering methods such as this can help us bin cases into homogeneous groupings.
 
 # Understanding the algorithm
 
